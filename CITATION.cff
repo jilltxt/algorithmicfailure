@@ -7,13 +7,15 @@ title: >-
 message: >-
   Please cite this software using the metadata from
   'preferred-citation'.
-type: dataset
 authors:
   - given-names: Jill Walker
     family-names: Rettberg
     affiliation: University of Bergen
     email: jill.walker.rettberg@uib.no
     orcid: 'https://orcid.org/0000-0003-2472-3812'
+
+Journal: Big Data & Society
+Year: Forthcoming 2022
 identifiers:
   - type: doi
     value: 
