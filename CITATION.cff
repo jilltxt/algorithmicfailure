@@ -1,0 +1,122 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  A Dataset Documenting Representations of Machine
+  Vision Technologies in Artworks, Games and
+  Narratives
+message: >-
+  Please cite this software using the metadata from
+  'preferred-citation'.
+type: dataset
+authors:
+  - given-names: Jill Walker
+    family-names: Rettberg
+    affiliation: University of Bergen
+    email: jill.walker.rettberg@uib.no
+    orcid: 'https://orcid.org/0000-0003-2472-3812'
+  - given-names: Linda
+    family-names: Kronman
+    affiliation: University of Bergen
+    orcid: 'https://orcid.org/0000-0001-7699-4505'
+  - given-names: Ragnhild
+    family-names: Solberg
+    affiliation: University of Bergen
+    orcid: 'https://orcid.org/0000-0002-5486-2453'
+  - given-names: Marianne
+    family-names: Gunderson
+    email: marianne.gunderson@uib.no
+    affiliation: University of Bergen
+    orcid: 'https://orcid.org/0000-0003-2794-4848'
+  - given-names: Stein Magne
+    family-names: Bjørklund
+    affiliation: University of Bergen
+  - given-names: Linn Heidi
+    family-names: Stokkedal
+  - given-names: Gabriele
+    name-particle: de
+    family-names: Seta
+    affiliation: University of Bergen
+    orcid: 'https://orcid.org/0000-0003-0497-2811'
+  - given-names: Kurdin
+    family-names: Jacob
+    affiliation: University of Bergen
+  - given-names: Annette
+    family-names: Markham
+    affiliation: RMIT
+    orcid: 'https://orcid.org/0000-0003-0497-2811'
+identifiers:
+  - type: doi
+    value: 10.18710/2G0XKN
+repository-code: 'https://doi.org/10.18710/2G0XKN'
+repository: >-
+  https://doi.org/10.18710/2G0XKN
+abstract: >-
+  This dataset captures cultural attitudes towards
+  machine vision technologies as they are expressed
+  in art, games and narratives. The dataset includes
+  records of 500 creative works (including 77 digital
+  games, 191 digital artworks and 236 movies, novels
+  and other narratives) that use or represent machine
+  vision technologies like facial recognition,
+  deepfakes, and augmented reality. The dataset is
+  divided into three main tables, relating to the
+  works, to specific situations in each work
+  involving machine vision technologies, and to the
+  characters that interact with the technologies.
+  Data about each work includes title, author, year
+  and country of publication; types of machine vision
+  technologies featured; topics the work addresses,
+  and sentiments associated with that machine vision
+  usage in the work. In the various works we
+  identified 884 specific situations where machine
+  vision is central. The dataset includes detailed
+  data about each of these situations that describes
+  the actions of human and non-human agents,
+  including machine vision technologies. The dataset
+  is the product of a digital humanities project and
+  can be also viewed as a database at
+  http://machine-vision.no.
+  Data was collected by a team of topic experts who
+  followed an analytical model developed to explore
+  relationships between humans and technologies,
+  inspired by posthumanist and feminist new
+  materialist theories. The project team identified
+  relevant works by searching databases, visiting
+  exhibitions and conferences, reading scholarship,
+  and consulting other experts. The inclusion
+  criteria were creative works( art, games,
+  narratives (movies, novels, etc)) where one of the
+  following machine vision technologies was used in
+  or represented by the work: 3D scans, AI, Augmented
+  reality, Biometrics, Body scans, Camera,
+  Cameraphone, Deepfake, Drones, Emotion recognition,
+  Facial recognition, Filtering, Holograms, Image
+  generation, Interactive panoramas Machine learning,
+  MicroscopeOrTelescope Motion tracking, Non-Visible
+  Spectrum Object recognition, Ocular implant,
+  Satellite images, Surveillance cameras, UGV,
+  Virtual reality, and Webcams.
+  The dataset as well as the more detailed database
+  can be viewed, searched, extracted, or otherwise
+  used or reused and is considered particularly
+  useful for humanities and social science scholars
+  interested in the relationship between technology
+  and culture, and by designers, artists, and
+  scientists developing machine vision technologies.
+keywords:
+  - digital humanities
+  - machine vision
+  - digital culture
+  - algorithmic bias
+  - cinema
+  - digital art
+  - science fiction
+  - novels
+  - video games
+  - game studies
+  - narrative
+  - new media art
+license: CC0-1.0
+date-released: '2022-03-17'
