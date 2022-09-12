@@ -1,8 +1,8 @@
-# Algorithmic Failure: Code for Testing a Methodology for Using Algorithmic Mispreditions to Identify Interesting Cases for Qualitative Research
+# Algorithmic Failure: Code for Testing a Methodology for Using Algorithmic Mispredictions to Identify Interesting Cases for Qualitative Research
 
 Author: Jill Walker Rettberg / jill.walker.rettberg@uib.no 
 
-[![DOI](https://zenodo.org/badge/338047184.svg)](https://zenodo.org/badge/latestdoi/338047184)
+[DOI coming soon]
 
 ## Description
 

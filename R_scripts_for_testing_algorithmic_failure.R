@@ -1,4 +1,4 @@
-# R scripts for the paper "Algorithmic Failure to Predict as a Humanities Methodology"
+# R scripts for the paper "Algorithmic Failure  as a Humanities Methodology"
 # by Jill Walker Rettberg
 # 13 September 2022
 # 
