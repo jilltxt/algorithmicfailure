@@ -12,10 +12,12 @@ authors:
     orcid: 'https://orcid.org/0000-0003-2472-3812'
 
 Year: 2022
-
+version: 1.0.0
+doi: 10.5281/zenodo.7075830
+date-released: 2022-05-01
+url: "https://github.com/jilltxt/algorithmicfailure"
 keywords:
   - digital humanities
   - machine learning
   - digital culture
 license: cc-by-nc-4.0
-date-released: '2022-09-13'
