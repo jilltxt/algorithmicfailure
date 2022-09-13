@@ -338,6 +338,25 @@ verbs <- cbind(test, prediction)
 # Add the verbnames back in.
 verbs$Verb <- verbnames
 
+
+# Evaluate performance ----------------------------------------------------
+
+library(gmodels)
+
+CrossTable(x = test$target, y = prediction, prop.chisq = FALSE)
+
+# Top left cell is true passive results. The algorithm correctly predicted 28 
+# passive verbs. The bottom number in this cell is the proportion of all results 
+# that were true passive: 12.4%. Above that is the accuracy for all passive 
+# predictions: 38.8
+# The (middle) bottom right cell is true actives: it correctly 
+# predicted that 96 active verbs were active. 
+
+
+# Identify false predictions ----------------------------------------------
+
+
+
 # Find false passives (i.e. verbs the prediction thought were passive (ending in -ed)
 # but that were really active)
 
