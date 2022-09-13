@@ -3,10 +3,7 @@
 
 cff-version: 1.2.0
 title: >-
-  Algorithmic failure as a humanities methodology: using machine learning’s mispredictions to identify rich cases for qualitative analysis in big datasets 
-message: >-
-  Please cite this software using the metadata from
-  'preferred-citation'.
+  Scripts for testing algorithmic failure
 authors:
   - given-names: Jill Walker
     family-names: Rettberg
@@ -14,15 +11,7 @@ authors:
     email: jill.walker.rettberg@uib.no
     orcid: 'https://orcid.org/0000-0003-2472-3812'
 
-Journal: Big Data & Society
-Year: Forthcoming 2022
-identifiers:
-  - type: doi
-    value: 
-repository-code: ''
-repository: >-
-  https://doi.org/10.18710/2G0XKN
-abstract: >-
+Year: 2022
 
 keywords:
   - digital humanities
