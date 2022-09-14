@@ -45,6 +45,7 @@
 # 
 # install.packages(tidyverse)
 # install.packages(class)
+# install.packages(gmodels)
 
 library(tidyverse)
 
@@ -58,7 +59,7 @@ library(tidyverse)
 # Note: this is set to import the file from GitHub. If you have downloaded the
 # file already, you can change the path to where the file is on your computer.
 
-Characters <- read_csv("https://raw.githubusercontent.com/jilltxt/algorithmic_failure/main/data/characters.csv") %>% 
+Characters <- read_csv("https://raw.githubusercontent.com/jilltxt/algorithmicfailure/main/data/characters.csv") %>% 
         select(Character, Species, Gender, Sexuality, 
                RaceOrEthnicity, Age) %>% 
         na_if("Unknown") %>% 
@@ -109,7 +110,7 @@ traits <- c("Child", "Young Adult", "Adult", "Elderly",
 # 
 # If you haven't installed the 
 
-Situations <- read_csv("https://raw.githubusercontent.com/jilltxt/algorithmic_failure/main/data/situations.csv",
+Situations <- read_csv("https://raw.githubusercontent.com/jilltxt/algorithmicfailure/main/data/situations.csv",
         col_types = cols(
                 SituationID = col_integer(),
                 Situation = col_skip(),
@@ -277,7 +278,7 @@ library(class)
 
 normalise <- function(x) {
         return ((x - min(x)) / (max(x) - min(x)))
-}
+        }
 
 # convert the Verb column to rownames, since the normalising needs all numeric data 
 # variables - but rownames are fine and used as labels in the plot.
@@ -322,7 +323,13 @@ test <- as.data.frame(lapply(test, normalise))
 # the verb is active or passive). So we remove first two columns (the verb and 
 # whether or not it is active) from both the 
 # training and test subsets. 
-
+# 
+# Even though it doesn't SEEM like this should be necessary, we have to set.seed() again.
+# The knn algorithm is mostly deterministic, but uses randomness when there is a
+# tie - that is, when two neighbours are equally close, it choses one at random to 
+# make its prediction. If the set.seed(2022) isn't repeated, the results will change
+# slightly from time to time.
+set.seed(2022)
 prediction <- knn(train = train[-c(1:2)], test = test[-c(1:2)], cl = train$target, k=1)
 
 
@@ -345,12 +352,17 @@ library(gmodels)
 
 CrossTable(x = test$target, y = prediction, prop.chisq = FALSE)
 
-# Top left cell is true passive results. The algorithm correctly predicted 28 
-# passive verbs. The bottom number in this cell is the proportion of all results 
-# that were true passive: 12.4%. Above that is the accuracy for all passive 
-# predictions: 38.8
-# The (middle) bottom right cell is true actives: it correctly 
-# predicted that 96 active verbs were active. 
+# The output first states what the Cell Contents mean, then shows a cross table 
+# where the ACTUAL target is shown horizontally, and the predictions vertically. 
+
+ 
+# AFTER ADDING SET.SEED:
+# It predicts that 34.7% of verbs are passive, while actually, 36% are passive.
+# It predicts that  65.3% of verbs are active, while actually, 64% are active 
+# Overall accuracy rate is 56%
+# 35.8% accurate for passive verbs
+# 64.6% accurate for active verbs.
+
 
 
 # Identify false predictions ----------------------------------------------
@@ -471,6 +483,7 @@ Character_verb_predictions %>%
         arrange(desc(Count))
 
 
+
 # LIST FALSE ACTIVES ------------------------------------------------------
 
 Character_verb_predictions %>%  
@@ -487,23 +500,34 @@ Character_verb_predictions %>%
         add_count(Verb) %>% # adds a column n with count of how many times Verb occurs
         distinct() %>% # remove duplicates
         arrange(desc(n)) %>% 
-        top_n(10) %>% # only show the top 10 in n (i.e. 10 most frequently used verbs)
-        group_by(Prediction_type) %>%
-        summarise(proportion = n() / nrow(.) ) 
+        top_n(10)  # only show the top 10 in n (i.e. 10 most frequently used verbs)
+        
+# All the top 10 are accurate predictions.
+# If wantingn to look at more than the top 10, could summarise the proportions of 
+# each type Prediction_type by adding the following two lines to the code above:         
+#        group_by(Prediction_type) %>%
+#        summarise(proportion = n() / nrow(.) ) 
 # Results are given as decimals adding up to 1
 
 #  Calculate accuracy of all except top ten -------------------------------
 
 Character_verb_predictions %>%  
-        select(Verb, Prediction_type) %>% 
+        select(Verb, prediction, Prediction_type, target) %>% 
         add_count(Verb) %>% # adds a column n with count of how many times Verb occurs
         distinct() %>% # remove duplicates
         arrange(desc(n)) %>% 
         slice_tail(n = -10) %>%  # remove the top ten rows
         group_by(Prediction_type) %>%
-        summarise(proportion = n() / nrow(.) ) 
+        summarise(proportion = n() / nrow(.))
 
+#  Calculate accuracy of all -------------------------------
 
-
+Character_verb_predictions %>%  
+        select(Verb, prediction, Prediction_type, target) %>% 
+        add_count(Verb) %>% # adds a column n with count of how many times Verb occurs
+        distinct() %>% # remove duplicates
+        arrange(desc(n)) %>% 
+        group_by(Prediction_type) %>%
+        summarise(proportion = n() / nrow(.))
              
         
