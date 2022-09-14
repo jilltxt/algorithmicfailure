@@ -1,0 +1,779 @@
+CharacterID,Character,Species,Gender,RaceOrEthnicity,Age,Sexuality,IsGroup,IsCustomizable
+3263,"Patrick (Sight)",Human,Male,White,Adult,Heterosexual,False,False
+3262,"Daphne W (Sight)",Human,Female,White,Adult,Heterosexual,False,False
+3257,"Jason Hatta",Human,Male,Unknown,Adult,Heterosexual,False,False
+3254,Regina,Human,Female,Unknown,Adult,Unknown,False,False
+3251,Emily,Machine,Female,White,Adult,Heterosexual,False,False
+3247,A2,Machine,Female,White,Adult,Unknown,False,False
+3240,"Imran Zakhaev",Human,Male,Unknown,Adult,Unknown,False,False
+3239,"Lt. John Price",Human,Male,White,Adult,Unknown,False,False
+3237,"Unnamed battlebot",Machine,Unknown,Unknown,Adult,Unknown,False,False
+3232,"Sim (The Sims 4)",Unknown,Unknown,Unknown,Unknown,Unknown,False,True
+3231,"Narrator (Expression captioner)",Human,Male,White,Adult,Unknown,False,False
+3230,"Narrator (Facial Features Not Recognized)",Human,Male,Unknown,Adult,Unknown,False,False
+3229,Avina,Machine,Female,Unknown,Adult,Unknown,False,False
+3224,"Robot doll (Squid Game)",Machine,Female,Unknown,Child,Unknown,False,False
+3223,"Gi-hun Seong",Human,Male,Asian,Adult,Heterosexual,False,False
+3217,Niki,Human,"Non-binary or Other",White,"Young Adult",Unknown,False,False
+3214,"The Mother (Klara and the Sun)",Human,Female,Unknown,Adult,Heterosexual,False,False
+3213,Klara,Machine,Female,Unknown,"Young Adult",Unknown,False,False
+3206,"Woman with smartphone (Deep Down Tidal)",Human,Female,Black,Adult,Unknown,False,False
+3192,Zizi,Human,"Non-binary or Other",Unknown,Adult,Unknown,False,False
+3191,"Drag Artists (The Zizi Show)",Human,"Non-binary or Other",Unknown,Adult,Unknown,True,False
+3187,"Saudi and Iraqi ancestors",Human,Unknown,Indigenous,Unknown,Unknown,True,False
+3172,Argus,Human,Male,Black,Adult,Unknown,False,False
+3160,"Hackers (Black Mirror)",Human,Unknown,Unknown,Unknown,Unknown,True,False
+3155,"Jake (Someone to Watch Over Me)",Human,Male,Unknown,Adult,Heterosexual,False,False
+3154,"Becky (Someone to Watch Over Me)",Human,Female,Unknown,Child,Unknown,False,False
+3152,"""Nakeema Stefflbauer""",Human,Female,Black,Adult,Unknown,False,False
+3144,"Bri-Bri (No More Selfies)",Human,Male,Unknown,Adult,Heterosexual,False,False
+3141,Eliasz,Human,Male,Unknown,Adult,Heterosexual,False,False
+3139,Paladin,Cyborg,"Trans Woman",Unknown,Adult,Heterosexual,False,False
+3136,"Natasha Romanoff (The Black Widow)",Human,Female,White,Adult,Heterosexual,False,False
+3135,Taskmaster,Human,Female,White,Adult,Unknown,False,False
+3133,"Steel Brother",Machine,Male,Unknown,Adult,Unknown,False,False
+3131,Sankofa,Human,Female,Black,Child,Unknown,False,False
+3124,"Masha Maximow",Human,Female,White,Adult,Unknown,False,False
+3123,"Nithya Balachandran",Human,Female,"Person of Colour",Adult,Heterosexual,False,False
+3118,"Welga (Olga Ramírez)",Human,Female,"Person of Colour",Adult,Heterosexual,False,False
+3114,"Barney Calhoun",Human,Male,Unknown,Adult,Unknown,False,False
+3113,"Gordon Freeman",Human,Male,White,Adult,Unknown,False,False
+3111,"Norman Jayden",Human,Male,White,Adult,Unknown,False,False
+3107,"Johnny Silverhand",Machine,Male,White,Adult,Heterosexual,False,False
+3105,"Alt Cunningham",Machine,Female,White,Adult,Heterosexual,False,False
+3101,"Miles Kilo",Cyborg,Male,White,Adult,Unknown,False,False
+3100,"Chad Mulligan",Human,Male,White,Adult,Unknown,False,False
+3099,"Trevor Philips",Human,Male,Unknown,Adult,Unknown,False,False
+3098,"Franklin Clinton",Human,Male,Black,Adult,Unknown,False,False
+3096,"Robert ""Red"" Ramsey",Human,Male,White,Adult,Unknown,False,False
+3094,"Cole Black",Human,Male,Unknown,Adult,Unknown,False,False
+3086,"Huangyan (Yellow Eye)",Human,Male,Asian,Adult,Heterosexual,False,False
+3084,"Sexy woman (Ayo Technology)",Human,Female,White,Adult,Heterosexual,False,False
+3079,"Peter Riviera",Human,Male,Unknown,Adult,Heterosexual,False,False
+3074,"Sara/Scott Ryder",Human,Unknown,White,Adult,Unknown,False,True
+3073,"Jack ""Pulse"" Estrada",Human,Male,White,Adult,Unknown,False,False
+3071,"Chul Kyung ""Vigil"" Hwa",Human,Male,Asian,Adult,Unknown,False,False
+3070,Nøkk,Human,Female,Unknown,Adult,Unknown,False,False
+3064,Mattie,Human,Female,White,Adult,Unknown,False,False
+3061,"Aria ""Alibi"" de Luca",Human,Female,Complex,Adult,Unknown,False,False
+3060,"Nienke ""Iana"" Meijer",Human,Female,Unknown,Adult,Unknown,False,False
+3059,"Ryad Ramírez ""Jackal"" Al-Hassar",Human,Male,Unknown,Adult,Unknown,False,False
+3056,"Sao Paulo citizens",Human,Unknown,Unknown,Unknown,Unknown,True,False
+3055,"Timur ""Glaz"" Glazkov",Human,Male,Unknown,Adult,Unknown,False,False
+3053,"Mechanical Turk Workers (selfiecity)",Human,Unknown,Unknown,Adult,Unknown,True,False
+3045,"Katie's dog",Animal,Unknown,Unknown,Unknown,Unknown,False,False
+3032,Katie,Human,Female,White,"Young Adult",Homosexual,False,False
+3027,SHN,Machine,Unknown,Unknown,Adult,Unknown,False,False
+3025,"Anna Agarwal",Human,Female,Unknown,Adult,Homosexual,False,False
+3022,Beacon,Machine,Unknown,Unknown,Adult,Unknown,False,False
+3021,"Amber Rose 348",Machine,Male,Unknown,Adult,Heterosexual,False,False
+3004,"Lydia (State of Mind)",Human,Female,White,Adult,Heterosexual,False,False
+3002,"Angela (State of Mind)",Human,Female,White,Adult,Unknown,False,False
+3000,"Kevin's wife (Solar Opposites)",Human,Female,White,Adult,Heterosexual,False,False
+2999,"Kevin (Solar Opposites)",Human,Male,White,Adult,Heterosexual,False,False
+2998,"Men with man caves (Solar Opposites)",Human,Male,Unknown,Adult,Unknown,True,False
+2994,"Jesse (Solar Opposites)",Fictional,"Non-binary or Other",Unknown,"Young Adult",Unknown,False,False
+2993,"Terry (Solar Opposites)",Fictional,Male,Unknown,Adult,Unknown,False,False
+2992,Korvo,Fictional,Male,Unknown,Adult,Unknown,False,False
+2991,P.A.T.R.I.C.I.A.,Machine,Female,White,Adult,Unknown,False,False
+2982,"AMT workers (Assembly Line)",Human,Unknown,Unknown,Adult,Unknown,False,False
+2965,"Animal Robots (Simpsons)",Machine,Unknown,Unknown,Unknown,Unknown,True,False
+2964,"Interviewed Young Adults (3%)",Human,Unknown,Unknown,"Young Adult",Unknown,True,False
+2963,"Animals (The Last Human)",Animal,Unknown,Unknown,Unknown,Unknown,True,False
+2962,"Endangered Bird (STET)",Animal,Unknown,Unknown,Unknown,Unknown,False,False
+2960,"Mae's parents",Human,Unknown,White,Elderly,Heterosexual,True,False
+2957,Renata,Human,Female,Unknown,Adult,Unknown,True,False
+2956,"Alan Hakman",Human,Male,White,Adult,Heterosexual,False,False
+2953,"Mrs Munroe",Human,Female,White,Elderly,Heterosexual,False,False
+2951,"Girl (The Final Cut)",Human,Female,Unknown,"Young Adult",Unknown,False,False
+2947,"Hitomi Yoshida",Human,Female,Unknown,Adult,Heterosexual,False,False
+2946,"Riva Karnovsky",Human,Female,Unknown,Adult,Heterosexual,False,False
+2942,Beth,Human,Female,White,Adult,Heterosexual,False,False
+2941,Ffion,Human,Female,White,Adult,Heterosexual,False,False
+2933,"Leo (URME)",Human,Male,White,Adult,Unknown,False,False
+2930,"Man (...som duften av en drøm...)",Human,Male,Unknown,Adult,Heterosexual,False,False
+2929,"Victim (Rugal)",Human,Male,Asian,Adult,Unknown,False,False
+2927,Zane,Human,Male,White,Adult,Other,False,False
+2925,"Hwang Deuk-Gu",Human,Male,Asian,Adult,Unknown,False,False
+2924,"Memo Cruz's Father",Human,Male,"Person of Colour",Adult,Unknown,False,False
+2923,"Memo Cruz",Human,Male,"Person of Colour","Young Adult",Unknown,False,False
+2921,"PEC goverment offical",Human,Male,"Person of Colour",Adult,Unknown,False,False
+2920,Lucía,Human,Female,White,Adult,Unknown,False,False
+2919,"Sonya Safronova",Human,Female,White,Child,Unknown,False,False
+2918,"Alla Safronova",Human,Female,White,Adult,Unknown,False,False
+2916,"Men in board room (Better Than Us)",Human,Male,White,Adult,Unknown,True,False
+2914,"Hunted Child (2033: La Ilusión de un Futuro Mejor)",Human,Male,"Person of Colour",Child,Unknown,False,False
+2913,"Hunted Father (2033: La Ilusión de un Futuro Mejor)",Human,Male,"Person of Colour",Adult,Unknown,False,False
+2911,Pablo,Human,Male,White,Adult,Unknown,False,False
+2910,Kenzo,Human,Male,White,Adult,Unknown,False,False
+2909,"James Holden",Human,Male,White,Adult,Heterosexual,False,False
+2907,"A.I. (The Social Dilemma)",Machine,Male,White,Adult,Unknown,False,False
+2901,"Adam Newman",Machine,Male,White,Adult,Heterosexual,False,False
+2900,"Richard Nolan",Human,Male,White,Adult,Heterosexual,False,False
+2899,"Lieutenant Joshi",Human,Female,White,Adult,Unknown,False,False
+2897,"John Wyles",Human,Male,White,Elderly,Heterosexual,False,False
+2896,"Dr. Eva Rosalene",Human,Female,Black,Adult,Unknown,False,False
+2895,"Dr. Neil Watts",Human,Male,White,Adult,Unknown,False,False
+2891,"Martin Symborski",Human,Male,White,Adult,Unknown,False,False
+2890,"Katya Kozlova",Human,Female,White,Adult,Unknown,False,False
+2889,"Angel (Blade Runner 2049)",Human,Female,White,Adult,Unknown,False,False
+2887,"Ellery Vas",Human,Female,Unknown,Unknown,Unknown,False,False
+2886,"AC-130 TV operator",Human,Male,Unknown,Unknown,Unknown,False,False
+2881,"John ""Soap"" MacTavish",Human,Male,White,Adult,Unknown,False,False
+2878,"Agents (Satellite Reign)",Machine,Unknown,Unknown,Adult,Unknown,True,False
+2873,"Agent Roy Merritt",Human,Male,White,Adult,Heterosexual,False,False
+2870,"Charles Mosely",Human,Male,Black,Adult,Heterosexual,False,False
+2868,"Marcus Yallow",Human,Male,Unknown,"Young Adult",Heterosexual,False,False
+2863,Greyson,Human,Male,"Person of Colour","Young Adult",Unknown,False,False
+2860,"Rowan Damish",Human,Male,"Person of Colour","Young Adult",Heterosexual,False,False
+2858,"Citra Terranova/Scythe Anastasia",Human,Female,"Person of Colour","Young Adult",Heterosexual,False,False
+2857,Thunderhead,Machine,Unknown,Unknown,Adult,Unknown,False,False
+2855,"Francis Pritchard",Human,Male,White,Adult,Unknown,False,False
+2854,"Adam Jensen",Cyborg,Male,White,Adult,Unknown,False,False
+2851,"Iconic Black Woman",Human,Female,Black,Adult,Unknown,False,False
+2848,"Nova Terra",Human,Female,White,Adult,Unknown,False,False
+2846,"Akihabara (NAMAHAGE in Tokyo)",Human,Male,Asian,"Young Adult",Unknown,False,False
+2844,"Valerian Mengsk",Human,Male,White,Adult,Unknown,False,False
+2843,"Jim Raynor",Human,Male,White,Adult,Heterosexual,False,False
+2842,"Arcturus Mengsk",Human,Male,White,Adult,Unknown,False,False
+2839,"Unnamed android (The Talos Principle)",Machine,Unknown,Unknown,Unknown,Unknown,False,False
+2838,"Gangsters (Security Cameras)",Human,Male,Black,Adult,Unknown,True,False
+2830,"""3D Binna Choi""",Human,Female,Asian,Adult,Unknown,False,False
+2829,"The Mauler Twins",Fictional,Male,Unknown,Unknown,Unknown,True,False
+2827,"The (new) Guardians of the Globe",Unknown,Unknown,Unknown,Unknown,Unknown,True,False
+2826,"Global Defense Agency",Human,Male,White,Adult,Unknown,True,False
+2818,X-Men,Fictional,Unknown,Unknown,Unknown,Unknown,True,False
+2816,Vision,Machine,Male,Unknown,Adult,Unknown,False,False
+2815,"James Rhodes",Human,Male,Black,Adult,Unknown,False,False
+2814,"Mark Grayson",Fictional,Male,Complex,"Young Adult",Heterosexual,False,False
+2813,"Robot (Invincible)",Machine,Male,Unknown,Unknown,Unknown,False,False
+2808,"Moff Gideon",Human,Male,Complex,Adult,Unknown,False,False
+2801,"Edward (The Peripheral)",Human,Male,Black,Adult,Homosexual,False,False
+2797,Verity,Human,Female,White,Adult,Heterosexual,False,False
+2796,Eunice/UNISS,Machine,Female,Black,Adult,Unknown,False,False
+2794,"Dalton Woolfe",Human,Male,White,Adult,Unknown,False,False
+2792,"Sabine Brandt",Human,Female,White,Adult,Unknown,False,False
+2789,Holston,Human,Male,Unknown,Adult,Heterosexual,False,False
+2787,Bagley,Machine,Male,Unknown,Unknown,Unknown,False,False
+2786,"DedSec Operative",Human,Unknown,Unknown,Unknown,Unknown,False,True
+2782,Compis,Machine,Male,Unknown,"Young Adult",Unknown,False,False
+2780,Fredrik,Human,Male,Unknown,"Young Adult",Unknown,False,False
+2779,Leo,Human,Male,White,"Young Adult",Unknown,False,False
+2777,"Gideon DeKalb's mother",Human,Female,Unknown,Adult,Unknown,False,False
+2775,"Gideon DeKalb",Human,Female,White,"Young Adult",Unknown,False,False
+2773,"Unknown woman (The Rain)",Human,Female,White,Adult,Heterosexual,False,False
+2770,"The Operator (Lifeline)",Human,Male,Unknown,Adult,Heterosexual,False,False
+2768,"Anthony Lund",Human,Male,White,Adult,Heterosexual,False,False
+2767,Alfred,Human,Male,White,Elderly,Unknown,False,False
+2765,"Simon Stagg",Human,Male,White,Adult,Unknown,False,False
+2762,"""Max Dovey""",Human,Male,White,Adult,Unknown,False,False
+2759,"Soldiers (Interface)",Human,Male,Unknown,Adult,Unknown,True,False
+2758,"Suspect (Interface)",Human,Male,Unknown,Adult,Unknown,False,False
+2756,"Consumer (Belief Systems)",Human,Female,White,Adult,Unknown,False,False
+2754,"Deep Face Dude",Human,Male,White,Unknown,Unknown,False,False
+2753,Nannybot,Machine,Female,White,Adult,Unknown,False,False
+2752,"Female Device Users",Human,Female,Unknown,Adult,Unknown,True,False
+2751,"Animals (Encounters)",Animal,Unknown,Unknown,Unknown,Unknown,True,False
+2750,Darren,Human,Male,White,"Young Adult",Unknown,False,False
+2748,"Doctor (Seed)",Human,Male,Black,Adult,Unknown,False,False
+2747,"Security company (Seed)",Human,Unknown,White,Adult,Unknown,True,False
+2745,"Human children",Human,Unknown,Unknown,Child,Unknown,True,False
+2744,"""Doug Rosman""",Human,Male,White,Adult,Unknown,False,False
+2743,"White Collar Criminal",Human,Male,White,Adult,Unknown,True,False
+2742,"""Bill Hader""",Human,Male,White,Adult,Unknown,False,False
+2736,"Asylum patients (Outlast)",Fictional,Male,Unknown,Adult,Unknown,True,False
+2735,Animatrons,Machine,Unknown,Unknown,Unknown,Unknown,True,False
+2734,"Machine animals",Machine,Unknown,Unknown,Unknown,Unknown,True,False
+2733,"Red Girls",Machine,"Non-binary or Other",White,Child,Unknown,False,False
+2731,9S,Machine,Male,White,Adult,Unknown,False,False
+2730,"Natali Kuroshenko",Human,Female,White,Adult,Homosexual,False,False
+2728,"Corporal Mandy Bale",Human,Female,"Person of Colour",Adult,Unknown,False,False
+2725,"Captain Leo",Machine,Male,Black,Adult,Unknown,False,False
+2724,"Lt. Thomas Harp",Human,Male,Black,Adult,Heterosexual,False,False
+2720,"Daniel Lyons",Human,Male,White,Adult,Homosexual,False,False
+2718,South,Human,Male,White,Adult,Unknown,False,False
+2713,Chloe,Human,Female,White,Child,Unknown,False,False
+2708,"William Daniels",Human,Male,Indigenous,Adult,Heterosexual,False,False
+2699,Oz,Cyborg,Male,Asian,Adult,Unknown,False,False
+2698,"Jim Compagnoni",Human,Male,White,Adult,Unknown,False,False
+2692,"The Boy",Machine,Male,Unknown,Child,Unknown,False,False
+2691,"The Man",Human,Male,White,Adult,Unknown,False,False
+2685,"Alex Neville",Human,Male,White,"Young Adult",Unknown,False,False
+2680,"Unknown hacker (Hyper reality)",Human,Unknown,Unknown,Unknown,Unknown,False,False
+2678,"Juliana Restrepo",Human,Female,"Person of Colour",Adult,Unknown,False,False
+2674,Amber,Human,Female,White,Adult,Heterosexual,False,False
+2673,Daniel,Human,Male,White,Adult,Heterosexual,False,False
+2669,"Krissana Khongtip",Cyborg,Female,Asian,Adult,Homosexual,False,False
+2668,"Orfea Leung",Human,Female,Asian,Adult,Homosexual,False,False
+2662,Louisa,Human,Female,White,Adult,Unknown,False,False
+2661,"Max robot",Machine,Unknown,Unknown,Unknown,Unknown,False,False
+2660,Nigel,Human,Male,White,Elderly,Unknown,False,False
+2658,Pig,Animal,Unknown,Unknown,Unknown,Unknown,False,False
+2656,"Hungry Man",Human,Male,White,Adult,Unknown,False,False
+2653,"Garm Galtung (Utbryterne)",Human,Male,White,Adult,Heterosexual,False,False
+2641,"Noah (Utbryterne)",Human,Male,White,"Young Adult",Heterosexual,False,False
+2639,"Unnamed technician (Gnomon)",Human,Male,Unknown,Adult,Unknown,False,False
+2636,"""Incubus""",Human,Male,White,Adult,Unknown,True,False
+2634,"Mielikki Neith (Gnomon)",Human,Female,Unknown,Adult,Unknown,False,False
+2633,"Diana Hunter (Gnomon)",Human,Female,Unknown,Elderly,Unknown,False,False
+2640,"Carla (Utbryterne)",Human,Female,"Person of Colour","Young Adult",Heterosexual,False,False
+2629,"Scary Skull Cyborg",Cyborg,Unknown,Unknown,Unknown,Unknown,False,False
+2627,"""Megadeath""",Human,Male,White,Adult,Unknown,False,False
+2623,"Light Hope",Machine,Female,Unknown,Adult,Unknown,False,False
+2621,Catra,Fictional,Female,Unknown,Adult,Unknown,False,False
+2616,"Michael de Santa",Human,Male,White,Adult,Heterosexual,False,False
+2610,"The Princesses",Fictional,Female,Unknown,Unknown,Unknown,True,False
+2609,"The Horde",Unknown,Unknown,Unknown,Unknown,Unknown,True,False
+2608,She-Ra/Adora,Human,Female,White,Adult,Unknown,False,False
+2604,"Donna Hawthorne",Human,Female,White,Adult,Unknown,False,False
+2603,"Fred (undercover cop)",Human,Male,White,Adult,Heterosexual,False,False
+2600,"Bob Arctor",Human,Male,White,Adult,Heterosexual,False,False
+2596,"Go Nan-do",Human,Male,Asian,Adult,Heterosexual,False,False
+2591,"Go Yoo-jin",Human,Female,Asian,Adult,Unknown,False,False
+2589,Superintelligence,Machine,Male,Unknown,Unknown,Unknown,False,False
+2588,Carol,Human,Female,White,Adult,Heterosexual,False,False
+2584,"User 2 (DOOR and BOX)",Human,Male,White,"Young Adult",Unknown,False,False
+2583,"User 1 (DOOR and BOX)",Human,Female,"Person of Colour","Young Adult",Unknown,False,False
+2572,Mitchell,Human,Male,White,Adult,Heterosexual,False,False
+2568,"Amazon Mechanical Turk worker (Lacework)",Human,Unknown,Unknown,Adult,Unknown,True,False
+2563,"Han So-Yeon",Human,Female,Asian,Adult,Unknown,False,False
+2562,Holo,Machine,Male,Asian,Adult,Unknown,False,False
+2560,Father,Machine,Male,Black,Adult,Unknown,False,False
+2558,Otho,Human,Male,Unknown,Adult,Unknown,False,False
+2557,Tempest,Human,Female,Black,"Young Adult",Unknown,False,False
+2550,"Campion Sturges",Human,Male,White,Adult,Unknown,False,False
+2548,"Rudolf Blodstrupmoen",Human,Male,White,Adult,Unknown,False,False
+2547,"Reodor Felgen",Human,Male,White,Adult,Unknown,False,False
+2540,"Adrian Griffin",Human,Male,White,Adult,Heterosexual,False,False
+2539,"Cecilia Kass",Human,Female,White,Adult,Heterosexual,False,False
+2534,"Strangers (Digital Skin)",Human,Unknown,Unknown,Adult,Unknown,True,False
+2530,Atari,Human,Male,Asian,Child,Unknown,False,False
+2522,Ursula,Human,Female,Unknown,Child,Unknown,False,False
+2517,Ben,Human,Male,White,"Young Adult",Heterosexual,False,False
+2515,"Enemies (Raised by Wolves)",Human,Unknown,Unknown,Adult,Unknown,True,False
+2514,"Children (Raised by Wolves)",Human,Unknown,Unknown,Child,Unknown,True,False
+2511,"Cutter Colby",Human,Female,Black,Adult,Unknown,False,False
+2510,"Lucky 13",Machine,Unknown,Unknown,Unknown,Unknown,False,False
+2509,"Thug (Cyberpunk 2077)",Human,Male,Unknown,Adult,Unknown,False,False
+2507,"Holographic Fight Host",Human,Male,White,Adult,Unknown,False,False
+2504,Suzy,Human,Female,White,Adult,Unknown,False,False
+2501,"Valin Hess",Human,Male,White,Adult,Unknown,False,False
+2500,"Migs Mayfield",Human,Male,White,Adult,Unknown,False,False
+2499,"Din Djarin",Human,Male,Complex,Adult,Unknown,False,False
+2497,"Box robot (Love, Death & Robots)",Machine,Female,Unknown,Unknown,Unknown,False,False
+2496,"Small robot (Love, Death & Robots)",Machine,Male,Unknown,Unknown,Unknown,False,False
+2495,"Humanoid robot (Love, Death & Robots)",Machine,Male,Unknown,Unknown,Unknown,False,False
+2494,"Life coach (Cyberpunk 2077)",Unknown,Male,Asian,Adult,Unknown,False,False
+2486,"Wu Lo (Bouvetøya 2052)",Human,Male,Asian,Adult,Unknown,False,False
+2483,"Julian Makowski",Human,Male,White,Child,Unknown,False,False
+2479,"Armin (Bouvetøya 2052)",Human,Male,Unknown,Adult,Heterosexual,False,False
+2478,"Grol (Bouvetøya 2052)",Human,Male,Unknown,Adult,Unknown,False,False
+2474,Viktor,Cyborg,Male,White,Adult,Unknown,False,False
+2473,V,Cyborg,Unknown,Unknown,Adult,Unknown,False,True
+2467,"Emma human",Human,Female,Unknown,"Young Adult",Unknown,False,False
+2464,XR_935,Machine,Unknown,Unknown,Unknown,Unknown,False,False
+2461,"Elders (... som duften av en drøm)",Human,Unknown,Unknown,Elderly,Unknown,True,False
+2460,"Reader (... som duften av en drøm)",Human,Unknown,Unknown,Adult,Unknown,False,False
+2452,"Hologram lady (Too much)",Machine,Female,Black,Adult,Unknown,False,False
+2451,"""Marshmello""",Machine,Unknown,Unknown,Unknown,Unknown,False,False
+2450,"""Usher""",Human,Male,Black,Adult,Unknown,False,False
+2445,"Katarina Berg",Human,Female,White,Adult,Unknown,False,False
+2439,"Guard (Rugal)",Human,Male,Asian,Adult,Unknown,False,False
+2435,Bradley,Human,Male,Asian,Adult,Unknown,False,False
+2430,Dust,Fictional,Unknown,Complex,Unknown,Unknown,False,False
+2429,"Mary Malone",Human,Female,White,Adult,Unknown,False,False
+2428,"Lyra Silvertongue",Human,Female,White,"Young Adult",Unknown,False,False
+2421,"Alex Kamal",Human,Male,Complex,Adult,Heterosexual,False,False
+2420,"Josephus Miller",Human,Male,White,Adult,Heterosexual,False,False
+2414,"Naomi Nagata",Human,Female,Complex,Adult,Heterosexual,False,False
+2407,"Three high-school aged girls (The Fall)",Human,Female,Unknown,"Young Adult",Unknown,True,False
+2404,"Sophia (Fall)",Human,Female,Black,Adult,Heterosexual,False,False
+2400,Subramanian,Human,Female,Asian,Adult,Heterosexual,False,False
+2399,"Bhaskara Poduva",Human,Male,Asian,Elderly,Unknown,False,False
+2398,Kunjappan,Machine,Unknown,Unknown,Unknown,Unknown,False,False
+2394,"Srivalli's little brother",Human,Male,Asian,Child,Unknown,False,False
+2392,Verma,Human,Male,Asian,Adult,Unknown,False,False
+2391,Srivalli,Human,Female,Asian,Adult,Bi-sexual,False,False
+2380,"The Physiologist (Cosmodrama)",Human,Female,White,Adult,Bi-sexual,False,False
+2379,"Monkey (Cosmodrama)",Animal,Unknown,Unknown,Adult,Unknown,False,False
+2376,Psychologist,Human,Male,White,Adult,Unknown,False,False
+2375,"La femme des ondes/ the woman from the waves (Cosmodrama)",Human,Female,White,Adult,Unknown,False,False
+2374,"Astronomer (Cosmodrama)",Human,Male,White,Elderly,Unknown,False,False
+2373,"Reporter (Cosmodrama)",Human,Male,White,Adult,Heterosexual,False,False
+2369,"Pakshi Rajan/Birds",Fictional,Unknown,Unknown,Unknown,Unknown,False,False
+2365,"Chitti the robot",Machine,Male,Unknown,Adult,Heterosexual,False,False
+2364,"Nila the robot",Machine,Female,Unknown,Adult,Heterosexual,False,False
+2363,"Dr. Vaseegaran",Human,Male,Asian,Adult,Unknown,False,False
+2357,Gabriela,Human,Female,"Person of Colour",Adult,Unknown,False,False
+2353,Grandmaster,Fictional,Male,White,Elderly,Unknown,False,False
+2352,Thor,Fictional,Male,White,Adult,Heterosexual,False,False
+2349,"Virtual friends (Best friend)",Machine,Unknown,Unknown,Adult,Unknown,True,False
+2348,"Homeless man (Best friend)",Human,Male,White,Elderly,Unknown,False,False
+2347,"Camille (Best friend)",Machine,Female,White,Adult,Unknown,False,False
+2346,"Arthur (Best Friend)",Human,Male,White,Adult,Unknown,False,False
+2337,"S.H.I.E.L.D. agents",Human,Unknown,Unknown,Adult,Unknown,True,False
+2335,Hawkeye,Human,Male,White,Adult,Heterosexual,False,False
+2334,Loki,Fictional,Male,White,Adult,Unknown,False,False
+2331,"Agent Phil Coulson",Human,Male,White,Adult,Unknown,False,False
+2328,"David 8",Machine,Male,White,Adult,Unknown,False,False
+2324,"Peter Weyland",Human,Male,White,Elderly,Unknown,False,False
+2319,"Space station/ship crew members",Human,Unknown,Unknown,Adult,Unknown,True,False
+2318,"Dr. Elizabeth Shaw",Human,Female,White,Adult,Heterosexual,False,False
+2314,"The Engineers (Prometheus)",Fictional,Male,Unknown,Adult,Unknown,True,False
+2313,Cutter,Human,Male,White,Adult,Unknown,False,False
+2312,Batou,Human,Male,White,Adult,Unknown,False,False
+2311,Major,Cyborg,Female,White,Adult,Unknown,False,False
+2308,"Dr. Ryan Stone",Human,Female,White,Adult,Unknown,False,False
+2303,"Nurse Gerhad",Human,Female,Black,Adult,Unknown,False,False
+2302,"Dr. Dyson Ido",Human,Male,White,Elderly,Heterosexual,False,False
+2301,Alita,Cyborg,Female,White,Adult,Heterosexual,False,False
+2293,Edit,Human,Female,White,"Young Adult",Unknown,False,False
+2285,"Sleeping crew members (2001: A Space Odyssey)",Human,Unknown,Unknown,Adult,Unknown,True,False
+2280,HAL,Machine,Unknown,Unknown,Unknown,Unknown,False,False
+2279,"Dr. Frank Poole",Human,Male,White,Adult,Unknown,False,False
+2278,"Dr. David Bowman",Human,Male,White,Adult,Unknown,False,False
+2274,"Dr. Floyd's daughter",Human,Female,White,Child,Unknown,False,False
+2273,"Dr. Heywood Floyd",Human,Male,White,Adult,Unknown,False,False
+2264,"Gus Mancuso",Human,Male,Black,Elderly,Unknown,False,False
+2263,"Aurora Lane",Human,Female,White,Adult,Heterosexual,False,False
+2262,"Jim Preston",Human,Male,White,Adult,Heterosexual,False,False
+2256,Scavengers,Human,Unknown,Unknown,Unknown,Unknown,True,False
+2254,"Victoria “Vika” Olsen",Human,Female,White,Adult,Heterosexual,False,False
+2253,"Jack Harper",Human,Male,White,Adult,Heterosexual,False,False
+2245,"Annotator (Suspicious Behavior)",Human,Unknown,Unknown,Adult,,False,False
+2235,"Moritz Zimmermann",Human,Male,White,"Young Adult",Heterosexual,False,False
+2228,"Paul Vanhove",Human,Male,White,Adult,Heterosexual,False,False
+2227,"Esther Vanhove",Human,Female,White,Adult,Heterosexual,False,False
+2218,Keaboka,Human,Male,Black,Adult,Unknown,False,False
+2213,"Agent Smith",Machine,Male,White,Adult,Unknown,False,False
+2212,"Narrator (Behind our irises)",Human,Female,Black,Adult,Heterosexual,False,False
+2209,IAN,Machine,Male,Asian,Adult,Unknown,False,False
+2202,Aline,Human,Female,"Person of Colour",Adult,Unknown,False,False
+2201,Ezequiel,Human,Male,White,Adult,Heterosexual,False,False
+2200,"Balem Abrasax",Fictional,Male,White,Adult,Unknown,False,False
+2187,"Professor X",Human,Male,White,Adult,Unknown,False,False
+2183,"Sentinels (X-Men: Days of Future Past)",Machine,Unknown,Unknown,Unknown,Unknown,True,False
+2181,Mystique,Human,Female,White,Adult,Unknown,False,False
+2173,"Captain Canady",Human,Male,White,Adult,Unknown,False,False
+2172,"General Hux",Human,Male,White,Adult,Unknown,False,False
+2164,C-3PO,Machine,Male,Unknown,Unknown,Unknown,False,False
+2163,R2-D2,Machine,Male,Unknown,Unknown,Unknown,False,False
+2161,Snoke,Fictional,Male,White,Elderly,Unknown,False,False
+2160,"Luke Skywalker",Human,Male,White,Elderly,Heterosexual,False,False
+2159,"Leia Skywalker Organa Solo",Human,Female,White,Elderly,Heterosexual,False,False
+2157,"Han Solo",Human,Male,White,Elderly,Heterosexual,False,False
+2155,Finn,Human,Male,Black,Adult,Heterosexual,False,False
+2154,"Rey Skywalker",Human,Female,White,Adult,Heterosexual,False,False
+2150,"Alexander Pierce",Human,Male,White,Adult,Unknown,False,False
+2149,"Nick Fury",Human,Male,Black,Adult,Unknown,False,False
+2141,Amaro,Human,Female,Black,Adult,Unknown,False,False
+2138,"Pizza delivery boy",Human,Male,White,"Young Adult",Unknown,False,False
+2136,"Bob Parr/ Mr. Incredible",Human,Male,White,Adult,Heterosexual,False,False
+2130,"Mindy Park",Human,Female,White,Adult,Unknown,False,False
+2114,Cordelia,Machine,Female,Unknown,Adult,Unknown,False,False
+2113,Mariette,Human,Female,White,Adult,Unknown,False,False
+2112,Joi,Machine,Female,White,Adult,Heterosexual,False,False
+2111,"Starfleet officer Thomas Harewood",Human,Male,Black,Adult,Unknown,False,False
+2107,Alex,Human,Male,White,Adult,Heterosexual,False,False
+2106,Helena,Human,Female,White,Adult,Heterosexual,False,False
+2097,"The Avengers",Unknown,Unknown,Unknown,Adult,Unknown,True,False
+2088,"Uncle Georgo",Human,Male,Unknown,Elderly,Unknown,False,False
+2087,Ludoviko,Human,Male,Unknown,Unknown,Unknown,False,False
+2086,Rava,Human,Female,Unknown,"Young Adult",Unknown,False,False
+2082,"Jesse (Welcome to Your Authentic Indian ExperienceTM)",Human,Female,"Person of Colour",Adult,Heterosexual,False,False
+2074,Nebula,Fictional,Female,Unknown,Adult,Unknown,False,False
+2058,"Jack-Jack Parr",Human,Male,White,Child,Unknown,False,False
+2054,"Chad Brentley",Human,Male,White,Adult,Unknown,False,False
+2050,"Mark Watney",Human,Male,White,Adult,Unknown,False,False
+2049,"Sergei Valishnikov",Human,Male,Unknown,Adult,Unknown,False,False
+2024,"Dr. Ana Stelline",Human,Female,White,Adult,Unknown,False,False
+2016,"Saw Gerrera",Human,Male,Black,Elderly,Unknown,False,False
+2014,"Jyn Erso",Human,Female,White,Adult,Unknown,False,False
+2012,"Bodhi Rook",Human,Male,"Person of Colour",Adult,Unknown,False,False
+2011,"Cassian Andor",Human,Male,White,Adult,Unknown,False,False
+2006,"Honey Lemon",Human,Female,White,"Young Adult",Unknown,False,False
+2003,"Evelyn Deavor",Human,Female,White,Adult,Unknown,False,False
+1973,Prowler,Human,Male,Black,Adult,Unknown,False,False
+1972,"Miles Morales",Human,Male,Black,"Young Adult",Heterosexual,False,False
+1966,"Mechanical Turkers (Recoding Art)",Human,Unknown,Complex,Adult,Unknown,True,False
+1957,Rebels,Human,Unknown,Complex,Adult,Unknown,True,False
+1956,Trinity,Human,Female,White,Adult,Heterosexual,False,False
+1955,Morpheus,Human,Male,Black,Adult,Heterosexual,False,False
+1954,Neo,Human,Male,White,Adult,Heterosexual,False,False
+1947,"Workers (Outra 33 Bienal de São Paulo)",Human,Male,Unknown,Adult,,True,False
+1944,"Iron Man",Human,Male,White,Adult,Heterosexual,False,False
+1941,"Song Mi-na",Human,Female,Asian,Adult,Unknown,False,False
+1930,"Spiders (Espécies de espaços II / Species of spaces II)",Animal,Unknown,Unknown,Unknown,Unknown,True,False
+1927,"Producers (The Last One)",Human,Unknown,Unknown,Adult,Unknown,True,False
+1925,Zoo,Human,Female,White,Adult,Heterosexual,False,False
+1922,"""Mari Nagem""",Human,Female,Unknown,Adult,,False,False
+1920,"Han Tae-woong",Human,Male,Asian,"Young Adult",Unknown,False,False
+1919,"Kang Ki-beom",Human,Male,Asian,Adult,Unknown,False,False
+1915,"Dr. Carter",Human,Male,White,Adult,Unknown,False,False
+1914,"Master Sergeant Farrell",Human,Male,White,Adult,Unknown,False,False
+1910,"Mr. Wallace",Cyborg,Male,White,Adult,Unknown,False,False
+1908,"""Ma Nu""",Human,Female,White,Adult,Unknown,False,False
+1907,Luv,Human,Female,White,Adult,Unknown,False,False
+1905,"Officer K (K, Joe)",Human,Male,White,Adult,Heterosexual,False,False
+1896,"Students (... som duften av en drøm...)",Human,Unknown,Unknown,"Young Adult",Unknown,True,False
+1894,"Palle Olsson",Human,Male,Unknown,Adult,Unknown,False,False
+1893,Screenslaver,Human,Male,White,"Young Adult",Unknown,False,False
+1889,Rocket,Animal,Male,Complex,Adult,Unknown,False,False
+1887,"Inter-dimensional monster",Fictional,Unknown,Unknown,Unknown,Unknown,False,False
+1885,Gamora,Fictional,Female,Complex,Adult,Heterosexual,False,False
+1883,"Colonel Weber",Human,Male,Black,Adult,Unknown,False,False
+1880,"Ian Donnelly",Human,Male,White,Adult,Heterosexual,False,False
+1878,"Concert audience (Song for a New Day)",Human,Unknown,Unknown,Adult,Unknown,True,False
+1862,"Khan Noonien Singh",Human,Male,White,Adult,Unknown,False,False
+1861,Spock,Fictional,Male,Unknown,Adult,Unknown,False,False
+1860,"Captain James Kirk",Human,Male,White,Adult,Unknown,False,False
+1845,"Hiro Hamada",Human,Male,Asian,"Young Adult",Heterosexual,True,False
+1844,Baymax,Machine,Male,Unknown,Unknown,Unknown,False,False
+1837,"Remi (Død og oppstandelse)",Human,Male,White,Adult,Heterosexual,False,False
+1836,"Oda Fåberg (Død og oppstandelse)",Machine,Female,White,Adult,Heterosexual,False,False
+1834,"Sovereign pilots (Guardians of the Galaxy)",Fictional,Unknown,Complex,Adult,Unknown,True,False
+1833,"High Priestess Ayesha",Fictional,Female,Complex,Adult,Unknown,False,False
+1832,"Caine Wise",Fictional,Male,White,Adult,Heterosexual,False,False
+1831,"Star-Lord/Peter Quill",Human,Male,White,Adult,Heterosexual,False,False
+1829,"Jupiter Jones",Human,Female,White,Adult,Heterosexual,False,False
+1828,Ibis,Human,Male,Black,Unknown,Unknown,False,False
+1825,"Emma (AI)",Machine,Female,Asian,Adult,Unknown,False,False
+1821,"Jung Hee Joo",Human,Female,Asian,Adult,Heterosexual,False,False
+1820,"Yoo Jin Woo",Human,Male,Asian,Adult,Heterosexual,False,False
+1813,"Hiroto Shimizu",Human,Male,Asian,Adult,Heterosexual,False,False
+1812,Cable,Cyborg,Male,White,Adult,Heterosexual,False,False
+1803,Deadpool,Human,Male,White,Adult,Heterosexual,False,False
+1800,"Samantha Martinez",Human,Male,Unknown,Unknown,Unknown,False,False
+1799,"Officer Jenkins",Human,Male,Unknown,Adult,Heterosexual,False,False
+1797,"Jasper Hester",Human,Male,Unknown,Unknown,Unknown,False,False
+1796,"Jimmy Hanson",Human,Male,Unknown,Unknown,Unknown,False,False
+1780,"""Jill Magid""",Human,Female,White,Adult,Unknown,False,False
+1778,Mother,Machine,Female,White,Adult,Unknown,False,False
+1777,"Walkers (Alan Walker fans)",Human,Unknown,Unknown,"Young Adult",Unknown,True,False
+1776,"""Alan Walker""",Human,Male,White,Adult,Unknown,False,False
+1773,"Simon (LoveStar)",Human,Male,White,Adult,Heterosexual,False,False
+1771,"Indridi (LoveStar)",Human,Male,White,Adult,Heterosexual,False,False
+1756,"Terry Jeffords",Human,Male,Black,Adult,Heterosexual,False,False
+1755,"Charles Boyle",Human,Male,White,Adult,Heterosexual,False,False
+1754,"Amy Santiago",Human,Female,"Person of Colour",Adult,Heterosexual,False,False
+1753,"Jake Peralta",Human,Male,White,Adult,Heterosexual,False,False
+1752,Simone,Human,Female,White,Adult,Heterosexual,False,False
+1751,Martin,Human,Male,White,Adult,Heterosexual,False,False
+1744,"Detective Vera Englund",Cyborg,Female,White,Adult,Heterosexual,False,False
+1741,"Lina Romero",Human,Female,"Person of Colour",Adult,Unknown,False,False
+1738,"Allie Bream",Human,Female,Black,Adult,Unknown,False,False
+1735,"Nina Peixoto",Human,Female,"Person of Colour",Adult,Unknown,False,False
+1732,"Replaced man",Human,Male,White,Adult,Unknown,False,False
+1730,"Agent Everett Ross",Human,Male,White,Adult,Unknown,False,False
+1727,Shuri,Human,Female,Black,Adult,Unknown,False,False
+1726,Okoye,Human,Female,Black,Adult,Heterosexual,False,False
+1725,T'Challa,Human,Male,Black,Adult,Heterosexual,False,False
+1720,T'Chaka,Human,Male,Black,Adult,Heterosexual,False,False
+1716,"Idir Jalil (The Test)",Human,Male,"Person of Colour",Adult,Heterosexual,False,False
+1713,"Woman in the street (Lagoon)",Human,Female,Black,Adult,Heterosexual,False,False
+1695,"Amitjyoti ""Amy"" Ferrier",Human,Female,"Person of Colour",Adult,Unknown,False,False
+1687,"John Standish",Human,Male,"Person of Colour",Adult,Unknown,False,False
+1685,Juno,Machine,Female,Unknown,Adult,Heterosexual,False,False
+1684,"Edward Kenway",Human,Male,White,Adult,Unknown,False,False
+1648,"Frank Minelli",Human,Male,Unknown,Adult,Heterosexual,False,False
+1646,"April Ryan",Human,Female,White,"Young Adult",Unknown,False,False
+1643,Sidra,Machine,Female,"Person of Colour",Adult,Unknown,False,False
+1630,"Luce Cannon",Human,Female,Unknown,Adult,Homosexual,False,False
+1629,Rosemary,Human,Female,Unknown,Adult,Homosexual,False,False
+1627,"SEER Robot",Machine,"Non-binary or Other",White,Child,,False,False
+1620,"""Kronos Quartet""",Human,Unknown,Unknown,Adult,Unknown,True,False
+1591,Amena,Human,Female,Black,"Young Adult",Unknown,False,False
+1534,Frannie,Human,Female,Black,Adult,Heterosexual,False,False
+1532,"Bernard Marx",Human,Male,White,Adult,Heterosexual,False,False
+1531,"Lenina Crowne",Human,Female,White,Adult,Bi-sexual,False,False
+1529,"John the Savage",Human,Male,White,Adult,Heterosexual,False,False
+1525,Rio,Human,Female,White,Adult,Heterosexual,False,False
+1524,"Anna Weber",Machine,Female,White,Child,Unknown,False,False
+1523,"Victor Weber",Human,Male,White,Adult,Unknown,False,False
+1521,John-117,Human,Male,Unknown,Adult,Unknown,False,False
+1520,Cortana,Machine,Female,White,Adult,Unknown,False,False
+1491,"Hundred Eyes",Machine,Male,Unknown,Adult,Unknown,False,False
+1489,Nozomi,Machine,Female,Unknown,Adult,Unknown,False,False
+1488,"Kiryu Kosuke",Human,Male,Asian,Adult,Heterosexual,False,False
+1480,Murderbot,Cyborg,Unknown,Unknown,Adult,Unknown,False,False
+1478,Batman,Human,Male,White,Adult,Heterosexual,False,False
+1469,"Pod 042",Machine,Male,Unknown,Unknown,Unknown,False,False
+1468,2B,Machine,Female,White,Adult,Unknown,False,False
+1466,"Burglars (The Castle Doctrine)",Human,Male,White,Adult,Heterosexual,True,False
+1465,"Player character (The Castle Doctrine)",Human,Male,White,Adult,Heterosexual,False,False
+1462,"Snow Lotus",Human,Female,Asian,"Young Adult",Heterosexual,False,False
+1451,Louis,Human,Male,Asian,Adult,Heterosexual,False,False
+1437,Lindy,Machine,Female,Unknown,Unknown,Unknown,False,False
+1436,Nocko,Machine,Unknown,Unknown,Child,Unknown,False,False
+1428,"Molly Millions",Human,Female,White,Adult,Heterosexual,False,False
+1427,Wintermute,Machine,Unknown,Unknown,Adult,Unknown,False,False
+1425,Case,Human,Male,White,Adult,Heterosexual,False,False
+1237,Aiba,Machine,Female,Unknown,"Young Adult",Unknown,False,False
+1238,"Kaname Date",Human,Male,Unknown,Adult,Heterosexual,False,False
+1234,Thorn,Human,Male,Unknown,Adult,Unknown,False,False
+1230,SAM,Machine,Male,Unknown,Unknown,Unknown,False,False
+1228,"""Chelsea E. Manning""",Human,"Trans Woman",White,Adult,Unknown,False,False
+1226,"The Summit (House of Earth and Blood)",Fictional,Unknown,Unknown,Adult,Unknown,True,False
+1225,"Micah Domitus",Fictional,Male,Unknown,Adult,Unknown,False,False
+1222,"Bryce Quinlan",Fictional,Female,Unknown,Adult,Heterosexual,False,False
+1207,"Andrea Farbe",Human,Female,Unknown,Child,Unknown,False,False
+1206,Nikolina,Human,Female,Unknown,Adult,Unknown,False,False
+1205,Grigor,Human,Male,Unknown,Adult,Unknown,False,False
+1202,"Dweller of Alina's kentuki",Human,Male,Unknown,Child,Unknown,False,False
+1201,Alina,Human,Female,Unknown,Adult,Heterosexual,False,False
+1199,"Fin Ueda Soto",Human,Female,Unknown,Adult,Unknown,False,False
+1192,"Ingrid Kannerman",Human,Female,White,Adult,Heterosexual,False,False
+1191,"Nora Antony",Human,Female,"Person of Colour",Adult,Heterosexual,False,False
+1190,"Nathan Brown",Human,Male,White,Adult,Heterosexual,False,False
+1179,"Game show contestants (H.I.T)",Human,Unknown,White,Adult,Unknown,True,False
+1176,"Lea Nichols",Human,Female,White,Adult,Unknown,False,False
+1172,"The Contestant (Ministry of Broadcast)",Human,Male,White,Adult,Heterosexual,False,False
+1168,"Audience (Man With a Movie Camera)",Human,Unknown,White,Adult,Unknown,True,False
+1163,"Abigail Fort (Thoughts and Prayers)",Human,Female,Unknown,Adult,Unknown,False,False
+1159,Haru,Human,Female,Asian,"Young Adult",Unknown,False,False
+1160,"The Cat King (The Cat Returns)",Animal,Male,Unknown,Adult,Heterosexual,False,False
+1150,"Unnamed intern (The Webcam Project)",Human,Unknown,Unknown,Adult,Unknown,False,False
+1149,"Unnamed woman (The Webcam Project)",Human,Female,Unknown,Adult,Unknown,False,False
+1148,"David (The Webcam Project)",Human,Male,Unknown,Adult,Unknown,False,False
+1142,"Surveillance man (Excellent)",Cyborg,Male,Unknown,Adult,Unknown,False,False
+1141,"Child (Excellent)",Human,Male,White,Child,Unknown,False,False
+1135,"Therapist ( Serious Games III: Immersion)",Human,Female,White,Adult,Unknown,False,False
+1134,"Soldier ( Serious Games III: Immersion )",Human,Male,White,Adult,Unknown,False,False
+1131,"Ryley Robinson",Human,Male,"Person of Colour",Adult,Unknown,False,False
+1130,"Oswin Oswald",Cyborg,Female,White,Adult,Heterosexual,False,False
+1127,"The 11th Doctor",Fictional,Male,White,Adult,Heterosexual,False,False
+1125,Evangelions,Cyborg,Unknown,Unknown,Unknown,Unknown,True,False
+1121,Avalanche,Unknown,Unknown,Unknown,Adult,Unknown,True,False
+1118,"Cloud Strife",Human,Male,White,Adult,Heterosexual,False,False
+1114,"Takahashi`s daughter",Human,Female,Asian,Child,Unknown,False,False
+1111,Takahashi,Human,Male,Asian,Adult,Unknown,False,False
+1109,"Johnny Mnemonic",Human,Male,Complex,Adult,Heterosexual,False,False
+1106,Parkaboy,Human,Male,White,Adult,Heterosexual,False,False
+1105,"Friends of Parkaboy (Pattern Recognition)",Human,Male,Unknown,Adult,Unknown,True,False
+1102,"Cayce Pollard",Human,Female,White,Adult,Unknown,False,False
+1096,Turry,Machine,Unknown,Unknown,Unknown,Unknown,False,False
+1095,"Emma (Seed)",Human,Female,White,"Young Adult",Unknown,False,False
+1089,"Fred Allen",Human,Male,White,Adult,Heterosexual,False,False
+1088,"Deloris Allen",Human,Female,Black,Adult,Heterosexual,False,False
+1084,Alice/Lola,Human,Female,White,Adult,Unknown,False,False
+1068,"Criminals (Manhunt)",Human,Male,Unknown,Adult,Unknown,True,False
+1067,"Lionel Starkweather",Human,Male,White,Adult,Unknown,False,False
+1065,"James Earl Cash",Human,Male,Complex,Adult,Unknown,False,False
+1063,GLaDOS,Machine,Female,Unknown,Unknown,Unknown,False,False
+1060,Chell,Human,Female,Complex,Adult,Unknown,False,False
+1026,"""Fran Krause""",Human,Male,White,Adult,Unknown,False,False
+1020,"Old lady (Coronavirus Drone Video)",Human,Female,Asian,Elderly,Unknown,False,False
+1016,"Duke Nukem",Human,Male,White,Adult,Heterosexual,False,False
+1014,Pokémon,Animal,Unknown,Unknown,Unknown,Unknown,True,False
+1011,"Daniel Lazarski",Human,Male,White,Adult,Heterosexual,False,False
+1009,Zombies,Fictional,Unknown,Unknown,Unknown,Unknown,True,False
+1004,"Max Lao",Human,"Trans Woman",Complex,Adult,Unknown,False,False
+998,"Latha Sesame",Human,Female,"Person of Colour",Adult,Unknown,False,False
+999,"Narrator (Exhalation)",Machine,Unknown,Unknown,Adult,Unknown,False,False
+997,"Charles Regis",Human,Male,White,Adult,Heterosexual,False,False
+988,Kuni,Human,Male,Unknown,Adult,Unknown,False,False
+987,Vashti,Human,Female,Unknown,Adult,Unknown,False,False
+983,Akan,Human,Male,White,Adult,Bi-sexual,False,False
+982,"Stephen Lyons",Human,Male,White,Adult,Heterosexual,False,False
+981,"Celeste Bisme-Lyons",Human,Female,Black,Adult,Heterosexual,False,False
+977,San-xiang,Human,Female,Asian,Adult,Heterosexual,False,False
+974,"Zhang Zhongshan",Human,Male,Complex,Adult,Homosexual,False,False
+975,"Angel (China Mountain Zhang)",Human,Female,Complex,Adult,Unknown,False,False
+970,Toby,Human,Male,Unknown,Adult,Heterosexual,False,False
+966,"Peeta Mellark",Human,Male,White,"Young Adult",Heterosexual,False,False
+960,"The Careers (The Hunger Games)",Human,Unknown,White,"Young Adult",Unknown,True,False
+958,"Rue (The Hunger Games)",Human,Female,Black,"Young Adult",Unknown,False,False
+955,"President Snow",Human,Male,White,Adult,Heterosexual,False,False
+954,"Gamemasters (The Hunger Games)",Human,Unknown,Unknown,Adult,Unknown,True,False
+953,"Katniss Everdeen",Human,Female,White,"Young Adult",Heterosexual,False,False
+951,"Tony ""the shy pooper""",Fictional,Male,Unknown,Adult,Heterosexual,False,False
+949,"Summer Smith",Human,Female,White,"Young Adult",Unknown,False,False
+947,"Hardcore Henry",Human,Male,Unknown,Adult,Heterosexual,False,False
+946,"Blind Mark",Human,Male,White,Adult,Unknown,False,False
+945,Tamir,Human,Male,"Person of Colour","Young Adult",Heterosexual,False,False
+944,Jazz,Human,Female,"Person of Colour","Young Adult",Heterosexual,False,False
+938,"Citizens of Namie",Human,Unknown,Asian,Unknown,Unknown,True,False
+934,"""Thom Yorke""",Human,Male,White,Adult,Unknown,False,False
+932,"Lem Hewitt",Human,Male,Black,Adult,Unknown,True,False
+925,"Rick Sanchez",Human,Male,White,Elderly,Heterosexual,False,False
+926,"Morty Smith",Human,Male,White,"Young Adult",Heterosexual,False,False
+922,"Professor's Daughter",Human,Female,Unknown,Child,Unknown,False,False
+921,"Professor's Son",Human,Male,Unknown,Child,Unknown,False,False
+920,"Professor's Wife",Human,Female,Unknown,Adult,Heterosexual,False,False
+919,Professor,Human,Male,Unknown,Adult,Heterosexual,False,False
+918,"Google Maps Girl (Satellite Images)",Unknown,Female,Unknown,Adult,Unknown,False,False
+917,"Narrator (Satellite Images)",Human,Unknown,Unknown,Adult,Unknown,False,False
+913,"Dancer (as.phyx.i.a)",Human,Unknown,Unknown,Adult,Unknown,False,False
+886,"Monster (I'm going to die, and probably soon)",Unknown,Unknown,Unknown,Unknown,Unknown,False,False
+885,"Girl (I'm going to die, and probably soon)",Human,Female,Unknown,Adult,Unknown,False,False
+883,"Narrator (I'm going to die, and probably soon)",Human,Male,Unknown,Adult,Unknown,False,False
+882,"Narrator (My Camera Knows Something)",Human,Unknown,Unknown,Adult,Unknown,False,False
+880,"Cassandra Watergate",Human,Female,White,Adult,Unknown,False,False
+876,"Benjamin Smith",Human,Male,Unknown,Adult,Unknown,False,False
+874,"Narrator (I created an AI..)",Human,Unknown,Unknown,Adult,Unknown,False,False
+871,Lily,Human,Female,White,"Young Adult",Heterosexual,False,False
+870,Hannah,Human,Female,Unknown,"Young Adult",Unknown,False,False
+869,Max,Human,Male,White,Child,Heterosexual,False,False
+864,"Billy McBride",Human,Male,White,Adult,Heterosexual,False,False
+862,Workers,Human,Unknown,Unknown,Adult,Unknown,True,False
+858,Ollie,Human,Male,White,Adult,Unknown,False,False
+857,"Mom (Slaughterbots)",Human,Female,White,Adult,Unknown,False,False
+856,"Girls (Night Trap)",Human,Female,White,"Young Adult",Unknown,True,False
+855,"Vampires (Night Trap)",Fictional,Unknown,Unknown,Adult,Unknown,True,False
+853,Arisa,Machine,Female,White,Adult,Unknown,False,False
+852,"Georgy Safronov",Human,Male,White,Adult,Heterosexual,False,False
+841,"Cooperman McBride",Human,Unknown,Unknown,Adult,Unknown,True,False
+840,"Donald Cooperman",Human,Male,White,Unknown,Heterosexual,False,False
+836,"Surveillance Officer (Anon)",Human,Male,White,Adult,Unknown,False,False
+834,"Cyrus Frear",Human,Male,White,Adult,Unknown,False,False
+833,"Anon (Anon)",Human,Female,White,Adult,Unknown,False,False
+832,"Sal Frieland",Human,Male,White,Adult,Heterosexual,False,False
+822,"Congolese soldiers (Infra)",Human,Male,Black,Adult,Unknown,True,False
+819,"Refugees (Incoming)",Human,Unknown,Immigrant,Unknown,Unknown,True,False
+814,"Quinn`s Gary",Machine,Male,White,Adult,Unknown,False,False
+813,"Quinn Ergon",Human,Female,Black,Adult,Unknown,False,False
+811,"Gary Goodspeed",Human,Male,White,Adult,Heterosexual,False,False
+808,"Ash Graven",Fictional,Female,Unknown,Adult,Unknown,False,False
+807,Hue,Machine,Unknown,Unknown,Unknown,Unknown,False,False
+804,"The Flemming Family",Human,Unknown,White,Unknown,Unknown,True,False
+803,"""Mood Killer""",Human,"Non-binary or Other",White,Adult,Unknown,False,False
+800,"""Devin the Dude""",Human,Male,Black,Adult,Unknown,False,False
+799,"""group_inou""",Human,Male,Asian,Adult,Unknown,True,False
+794,"Anonymous woman",Human,Female,Unknown,Adult,Unknown,False,False
+793,"""50 Cent""",Human,Male,Black,Adult,Heterosexual,False,False
+792,"""Timbaland""",Human,Male,Black,Adult,Heterosexual,False,False
+791,"""Gojira""",Human,Male,Unknown,Adult,Unknown,True,False
+790,"""Bob Mould""",Human,Male,White,Adult,Unknown,False,False
+789,"""John Mayer""",Human,Male,White,Adult,Unknown,False,False
+788,"""Ingrid Michaelson""",Human,Female,White,Adult,Unknown,False,False
+787,Tom,Human,Male,White,Adult,Unknown,False,False
+786,Robinator,Machine,Male,White,Adult,Unknown,False,False
+784,"Plastic surgeons",Human,Unknown,Unknown,Adult,Unknown,True,False
+783,"Anonymous individual",Human,Unknown,Unknown,Unknown,Unknown,False,False
+782,"""Paper""",Human,Male,White,Adult,Unknown,True,False
+781,Infant,Human,Unknown,White,Child,Unknown,False,False
+780,"Glad girls (Glad Girls)",Human,Female,Unknown,Adult,Unknown,False,False
+779,"""Rob Pollard""",Human,Male,White,Adult,Unknown,False,False
+778,"Smiling women (Cheese)",Human,Female,Complex,Adult,Unknown,True,False
+776,Deer,Animal,Unknown,Unknown,Unknown,Unknown,False,False
+773,"""Casino""",Human,Male,Black,Adult,Unknown,False,False
+772,"Bikers (Terminator 2)",Human,Male,White,Adult,Unknown,True,False
+771,"Inhabitants of Assimilation City",Human,Unknown,Unknown,Unknown,Unknown,True,False
+770,Aliens,Fictional,Unknown,Unknown,Unknown,Unknown,True,False
+769,"""Janelle Monáe""",Human,Female,Black,Adult,Bi-sexual,False,False
+766,"Margaux Needler",Human,Female,White,Adult,Unknown,False,False
+764,BTs,Fictional,Unknown,Unknown,Unknown,Unknown,True,False
+759,"Therapist (U)",Human,Female,White,Adult,Unknown,False,False
+758,"Emma Fisher",Human,Female,White,Adult,Unknown,False,False
+751,"Sam Bridges",Human,Male,White,Adult,Other,False,False
+750,"""Mr. Assange""",Human,Male,White,Adult,Unknown,False,False
+748,"Mr./Ms. Howard",Human,Unknown,Unknown,Adult,Unknown,False,True
+735,"Sarah Connor",Human,Female,White,Adult,Unknown,False,False
+734,"Kyle Reese",Human,Male,White,Adult,Unknown,False,False
+732,"John Connor",Human,Male,White,Child,Unknown,False,False
+730,"Terminator T-800 ""Model 101""",Machine,Male,White,Adult,Unknown,False,False
+726,"The Hawke family",Human,Unknown,White,Adult,Unknown,True,False
+723,Weaver,Human,Male,Black,Adult,Unknown,False,True
+722,Midas,Human,Male,"Person of Colour",Adult,Unknown,False,True
+721,Holt,Human,Male,White,Adult,Unknown,False,True
+720,Nomad,Human,Male,White,Adult,Unknown,False,True
+718,"Miles Upshur",Human,Male,White,Adult,Unknown,False,False
+714,"Google Driver",Human,Male,Unknown,Adult,Unknown,True,False
+713,"UAV operator (Unmanned)",Human,Male,White,Adult,Unknown,False,False
+710,"Immigrant group (The Virtual Watchers)",Human,Unknown,Immigrant,Unknown,Unknown,True,False
+708,"Amanda Ripley",Human,Female,White,Adult,Unknown,False,False
+706,"Poppy Gardner",Human,Female,White,"Young Adult",Unknown,False,False
+692,MPU,Machine,Unknown,Unknown,Unknown,Unknown,False,False
+691,"Radical Ed",Human,Female,White,"Young Adult",Unknown,False,False
+690,"AR girl",Human,Female,White,Adult,Unknown,False,False
+686,"US+ Office worker",Human,Male,White,Adult,Unknown,False,False
+685,"Us+ Daughter",Human,Female,"Person of Colour",Adult,Unknown,False,False
+684,"Alan Partridge",Human,Male,White,Adult,Unknown,False,False
+677,"Zoe Foster",Human,Female,Unknown,Child,Unknown,False,False
+674,Mercer,Human,Male,White,Adult,Heterosexual,False,False
+673,"Mae Holland",Human,Female,White,Adult,Heterosexual,False,False
+664,Sergeant,Machine,Male,Unknown,Adult,Unknown,False,False
+663,"William Foster",Human,Male,Complex,Adult,Heterosexual,False,False
+661,"Woman in Tony Stark's bedroom",Human,Female,White,Adult,Heterosexual,False,False
+660,"Vivienne Rook",Human,Female,White,Adult,Unknown,False,False
+653,"Rushdi Mannan",Human,Male,"Person of Colour",Adult,Homosexual,False,False
+650,"Adult Tokyo population",Human,Unknown,Asian,Adult,Unknown,True,False
+649,Namahage,Fictional,Unknown,Unknown,Unknown,Unknown,False,False
+644,"Big Sister Shen",Human,Female,Asian,Adult,Unknown,False,False
+633,"Homer Simpson",Human,Male,Unknown,Adult,Heterosexual,False,False
+632,"The Simpsons family",Human,Unknown,Unknown,Unknown,Unknown,True,False
+626,Leela,Fictional,Female,Unknown,Adult,Unknown,False,False
+625,"Zapp Brannigan",Human,Male,White,Adult,Unknown,False,False
+622,"Navn Ukjent",Human,Male,Immigrant,Adult,Heterosexual,False,False
+621,Nilin,Human,Female,"Person of Colour",Adult,Unknown,False,False
+570,"Wreck-It Ralph",Human,Male,White,Adult,Unknown,False,False
+571,Vanellope,Human,Female,Complex,Child,Unknown,False,False
+566,"""Tom Cruise""",Human,Male,White,Adult,Unknown,False,False
+563,Abi,Human,Female,White,Adult,Unknown,False,False
+562,Bing,Human,Male,"Person of Colour",Adult,Unknown,False,False
+561,"Joe Potter",Human,Male,White,Adult,Heterosexual,False,False
+559,"Liam Foxwell",Human,Male,White,Adult,Heterosexual,False,False
+558,Kenny,Human,Male,White,"Young Adult",Unknown,False,False
+545,"Amanda (Someone to Watch Over Me)",Human,Female,Unknown,Adult,Heterosexual,False,False
+544,"""Kim Kardashian""  (No More Selfies)",Human,Female,White,Adult,Heterosexual,False,False
+543,"Sunita (No More Selfies)",Human,Female,"Person of Colour",Adult,Heterosexual,False,False
+541,"Ellie (Selfies)",Human,Female,Unknown,"Young Adult",Heterosexual,False,False
+538,"Hayley (Thoughts and Prayers)",Human,Female,Unknown,"Young Adult",Unknown,False,False
+533,"Lia Kahn",Human,Female,White,"Young Adult",Heterosexual,False,False
+524,"Rita (U)",Human,Female,White,Adult,Unknown,False,False
+523,"Alex (U)",Human,Female,Asian,Adult,Unknown,False,False
+521,"Call (U)",Human,Male,White,Adult,Unknown,False,False
+520,"Asuna Yuuki",Human,Female,Asian,"Young Adult",Heterosexual,False,False
+517,"Kazuto Kirigaya",Human,Male,Asian,"Young Adult",Heterosexual,False,False
+516,"Brian Gragg",Human,Male,White,Adult,Heterosexual,False,False
+512,Guppy,Animal,Unknown,Unknown,Unknown,Unknown,False,False
+493,"Max Zorin",Human,Male,White,Adult,Unknown,False,False
+492,"James Bond (Roger Moore)",Human,Male,White,Adult,Heterosexual,False,False
+489,"Edith Lyons",Human,Female,White,Elderly,Unknown,False,False
+484,Catherine,Human,Female,White,Adult,Unknown,False,False
+483,Ashley,Human,Female,White,"Young Adult",Unknown,False,False
+480,Rachel,Human,Female,White,"Young Adult",Unknown,False,False
+479,"Ashley too",Machine,Female,Unknown,Adult,Unknown,False,False
+478,"Danny Parker",Human,Male,Black,Adult,Bi-sexual,False,False
+477,"Karl Houghton",Human,Male,Black,Adult,Bi-sexual,False,False
+464,"Peter Parker",Human,Male,White,"Young Adult",Heterosexual,False,False
+461,Mysterio,Human,Male,White,Adult,Unknown,False,False
+455,Jarvis,Machine,Male,Unknown,Adult,Heterosexual,False,False
+453,"Tony Stark",Human,Male,White,Adult,Heterosexual,False,False
+445,"""Lauren McCarthy""",Human,Female,Unknown,Adult,,False,False
+439,"Ghost (Breathe)",Fictional,Female,Unknown,Adult,Unknown,False,False
+437,Flo,Human,Female,Unknown,"Young Adult",Heterosexual,False,False
+433,Miranda,Human,Female,White,Adult,Heterosexual,False,False
+435,"Charlie Friend",Human,Male,White,Adult,Heterosexual,False,False
+434,Adam,Machine,Male,White,Adult,Heterosexual,False,False
+421,"""Earl Sweatshirt""",Human,Male,Black,Adult,Unknown,False,False
+419,Lizzie,Human,Female,Black,"Young Adult",Unknown,False,False
+418,"Stephanie Flemming",Human,Female,White,Adult,Unknown,False,False
+411,"Bethany Bisme-Lyons",Human,Female,"Person of Colour","Young Adult",Unknown,False,False
+408,"Asuka Soryu Langley",Human,Female,Complex,"Young Adult",Heterosexual,False,False
+406,"Rei Ayanami",Fictional,Female,Asian,"Young Adult",Unknown,False,False
+403,"Shinji Ikari",Human,Male,Asian,"Young Adult",Heterosexual,False,False
+399,Hope,Human,Female,White,"Young Adult",Unknown,False,False
+397,Carl,Human,Male,Unknown,Adult,Heterosexual,False,False
+384,"""Jeremy Bailey""",Human,Male,White,Adult,Unknown,False,False
+325,"Mare Barrow",Human,Female,Unknown,"Young Adult",Heterosexual,False,False
+319,"""Jake Wells""",Human,Male,White,Adult,Unknown,False,False
+308,Markus,Machine,Male,"Person of Colour",Adult,Unknown,False,False
+305,Connor,Machine,Male,White,Adult,Unknown,False,False
+292,"Yusuke Sakaki",Human,Male,"Person of Colour",Adult,Unknown,False,False
+288,"Rose Weil",Human,Female,White,Adult,Unknown,False,False
+284,"John Nada",Human,Male,White,Adult,Unknown,False,False
+280,Tun,Human,Male,Asian,Adult,Unknown,False,False
+277,Aloy,Machine,Female,Indigenous,"Young Adult",Unknown,False,False
+269,"""Joy Buolamwini""",Human,Female,Black,Adult,Unknown,False,False
+265,"John Anderton",Human,Male,White,Adult,Heterosexual,False,False
+262,"Jerome Holm",Human,Male,White,"Young Adult",Unknown,False,False
+261,"Mary Holm",Human,Female,White,"Young Adult",Unknown,False,False
+260,"Flem Lever",Human,Male,White,"Young Adult",Unknown,False,False
+259,"Ernest Holm",Human,Male,White,Adult,Unknown,False,False
+256,"Ted Pikul",Human,Male,White,Adult,Heterosexual,False,False
+255,"Allegra Geller",Human,Female,White,Adult,Heterosexual,False,False
+247,"Spider Jerusalem",Human,Male,White,Adult,Heterosexual,False,False
+245,"One Esk Nineteen",Cyborg,Female,Unknown,Adult,Unknown,False,False
+242,"Pete Sebeck",Human,Male,Unknown,Adult,Heterosexual,False,False
+241,"Winston Smith",Human,Male,White,Adult,Heterosexual,False,False
