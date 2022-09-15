@@ -1,6 +1,6 @@
 # R scripts for the paper "Algorithmic Failure  as a Humanities Methodology"
 # by Jill Walker Rettberg
-# 13 September 2022
+# 15 September 2022
 # 
 # Released under a CC-BY license.
 # 
@@ -408,7 +408,7 @@ summary(pred)
 
 # VISUALISE TRAITS OF UNPREDICTABLE ACTIONS ------------------------------------
 
-# fig3: false predictions proportional ------------------------------------
+# figure (not used in final paper): false predictions proportional ------------------------------------
 
 # Plot barcharts showing the proportion of mispredicted  verbs for each
 # character trait. 
@@ -438,7 +438,7 @@ Character_verb_predictions %>%
         facet_wrap(~name, scales="free")
 
 
-# fig4: False predictions count -------------------------------------------
+# figure (not used in final paper): False predictions count -------------------------------------------
 
 Character_verb_predictions %>% 
         filter(Prediction_type != "Accurate") %>% 
@@ -500,13 +500,9 @@ Character_verb_predictions %>%
         add_count(Verb) %>% # adds a column n with count of how many times Verb occurs
         distinct() %>% # remove duplicates
         arrange(desc(n)) %>% 
-        top_n(10)  # only show the top 10 in n (i.e. 10 most frequently used verbs)
-        
-# All the top 10 are accurate predictions.
-# If wantingn to look at more than the top 10, could summarise the proportions of 
-# each type Prediction_type by adding the following two lines to the code above:         
-#        group_by(Prediction_type) %>%
-#        summarise(proportion = n() / nrow(.) ) 
+        top_n(10) %>%   # only show the top 10 in n (i.e. 10 most frequently used verbs)
+        group_by(Prediction_type) %>%
+        summarise(proportion = n() / nrow(.) ) 
 # Results are given as decimals adding up to 1
 
 #  Calculate accuracy of all except top ten -------------------------------
@@ -530,4 +526,7 @@ Character_verb_predictions %>%
         group_by(Prediction_type) %>%
         summarise(proportion = n() / nrow(.))
              
-        
+# Note that this is slightly different from accuracty in CrossTable() above. This is because 
+# Character_verb_predictions isn't organised with each verb as a single observation.
+# Instead, each row is a single interaction - so a verb that is used many times will appear 
+# on many different rows, and be counted multiple times.
