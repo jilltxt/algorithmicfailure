@@ -8,12 +8,11 @@ Author: Jill Walker Rettberg / jill.walker.rettberg@uib.no
 
 This repository contains the code and data used in a paper that tests algorithmic failure, a methodology for using machine learning in qualitative research. The paper is forthcoming in the journal Big Data and Society, and can be cited thus:
 
-Rettberg, Jill Walker. (2022) "Algorithmic failure as a humanities methodology: using machine learning’s mispredictions to identify rich cases for qualitative analysis in big datasets." Big Data & Society. Forthcoming.
+- Rettberg, Jill Walker. (2022) "Algorithmic failure as a humanities methodology: using machine learning’s mispredictions to identify rich cases for qualitative analysis in big datasets." Big Data & Society. https://doi.org/10.1177/20539517221131290
 
 This paper uses a simpler algorithm (kNN) and a different dataset to test the method, which was first described in
   
-Munk, AK, Olesen, AG, & Jacomy, M (2022) The Thick Machine: Anthropological AI between explanation and explication. Big Data & Society, 9(1). DOI: 
-10.1177/20539517211069891 
+- Munk, AK, Olesen, AG, & Jacomy, M (2022) The Thick Machine: Anthropological AI between explanation and explication. Big Data & Society, 9(1). http://doi.org/10.1177/20539517211069891 
 
 ## How to run the code
 
