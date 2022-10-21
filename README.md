@@ -6,7 +6,7 @@ Author: Jill Walker Rettberg / jill.walker.rettberg@uib.no
 
 ## Description
 
-This repository contains the code and data used in a paper that tests algorithmic failure, a methodology for using machine learning in qualitative research. The paper is forthcoming in the journal Big Data and Society, and can be cited thus:
+This repository contains the code and data used in a paper that tests algorithmic failure, a methodology for using machine learning in qualitative research. The paper is published in the journal Big Data and Society, and can be cited thus:
 
 - Rettberg, Jill Walker. (2022) "Algorithmic failure as a humanities methodology: using machine learning’s mispredictions to identify rich cases for qualitative analysis in big datasets." Big Data & Society. https://doi.org/10.1177/20539517221131290
 
